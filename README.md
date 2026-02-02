@@ -14,7 +14,7 @@
 | Python        | Bootstrap    | MongoDB     | Postman      |
 
 #### 📫 Connect
-- GitHub: **https://github.com/UGR-8986-16**  
+- [GitHub](https://github.com/UGR-8986-16)  
 - Linkeden:
 
 ⭐ *Always learning, always building.*
