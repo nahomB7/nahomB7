@@ -1,16 +1,20 @@
-## Hi there 👋
+🎓 Software Engineering Student | 💻 Web Developer | 📍 Addis Ababa
 
-<!--
-**nahomB7/nahomB7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 About Me
+- 🌱 Learning **React, Node.js & System Design**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🎯 Goal: **Become a skilled Full-Stack Developer**
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Languages** | **Frontend** | **Backend** | **Tools**    |
+|---------------|--------------|-------------|--------------|
+| JavaScript    | React        | Node.js     | Git & GitHub |
+| C++           | HTML/CSS     | Express     | VS Code      |
+| Python        | Bootstrap    | MongoDB     | Postman      |
+
+#### 📫 Connect
+- GitHub: **https://github.com/UGR-8986-16**  
+- Linkeden:
+
+⭐ *Always learning, always building.*
