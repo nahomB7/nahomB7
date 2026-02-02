@@ -7,13 +7,13 @@
 
 #### 🛠 Tech Stack
 
-| **Languages** | **Frontend** | **Backend** | **Tools**    |
-|---------------|--------------|-------------|--------------|
-| JavaScript    | React        | Node.js     | Git & GitHub |
-| C++           | HTML/CSS     | Express     | VS Code      |
-| Python        | Bootstrap    | MongoDB     | Postman      |
+| **Languages** | **Frontend** | **Backend** |
+|---------------|--------------|-------------|
+| JavaScript    | React        | Node.js     |
+| C++           | HTML/CSS     | Express     |
+| Python        | Bootstrap    | MongoDB     |
 
 #### 📫 Connect
-- [GitHub](https://github.com/UGR-8986-16) | [Telegram](https://t.me/NL888Y)
+- [GitHub](https://github.com/UGR-8986-16) | [Telegram](https://t.me/NL888Y) | 
 
 ⭐ *Always learning, always building.*
