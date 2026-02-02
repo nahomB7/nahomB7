@@ -14,7 +14,6 @@
 | Python        | Bootstrap    | MongoDB     | Postman      |
 
 #### 📫 Connect
-- [GitHub](https://github.com/UGR-8986-16)  
-- [Telegram](https://t.me/NL888Y)
+- [GitHub](https://github.com/UGR-8986-16)|[Telegram](https://t.me/NL888Y)
 
 ⭐ *Always learning, always building.*
