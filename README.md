@@ -6,12 +6,9 @@
 - 🎯 Goal: **Become a skilled Full-Stack Developer**
 
 #### 🛠 Tech Stack
-
-| **Languages** | **Frontend** | **Backend** |
-|---------------|--------------|-------------|
-| JavaScript    | React        | Node.js     |
-| C++           | HTML/CSS     | Express     |
-| Python        | Bootstrap    | MongoDB     |
+- **Languages**: JavaScript | C++ | Python
+- **Frontend**: react | HTML&CSS | Bootstrap
+- **Backend**: Node.js | Express | MongoDB
 
 #### 📫 Connect
 - [GitHub](https://github.com/UGR-8986-16) | [Telegram](https://t.me/NL888Y) | 
