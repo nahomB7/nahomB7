@@ -1,4 +1,4 @@
-🎓 Software Engineering Student | 💻 Web Developer | 📍 Addis Ababa
+<img width="476" height="633" alt="image" src="https://github.com/user-attachments/assets/3d18915e-c769-4765-9538-56627c98a0b8" />🎓 Software Engineering Student | 💻 Web Developer | 📍 Addis Ababa
 
 #### 🚀 About Me
 - 🌱 Learning **React, Node.js & System Design**
@@ -15,6 +15,6 @@
 
 #### 📫 Connect
 - [GitHub](https://github.com/UGR-8986-16)  
-- Linkeden:
+- [Telegram](https://t.me/NL888Y)
 
 ⭐ *Always learning, always building.*
