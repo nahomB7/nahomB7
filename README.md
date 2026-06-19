@@ -11,6 +11,6 @@
 - **Backend**: Node.js | Express | MongoDB
 
 #### 📫 Connect
-- [Email](Nahombehailu995@gmail.com) | [Telegram](https://t.me/NL888Y) | 
+- [Email](malito:Nahombehailu995@gmail.com) | [Telegram](https://t.me/NL888Y) | 
 
 ⭐ *Always learning, always building.*
